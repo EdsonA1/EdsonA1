@@ -3,8 +3,8 @@
 <h1 align="center">An Upcoming Developer Attending the University of Notre Dame</h1>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-- Major📚: Computer Science
-- Minor📒: Real Estate 🏗️ & Engineering Corporate Practice 💼
+<h3 align="center"> - Major📚: Computer Science</h3>
+<h3 align="center"> - Minor📒: Real Estate 🏗️ & Engineering Corporate Practice 💼</h3>
 - 🌱 I’m currently learning **React, Node.js, and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EdsonA1](https://github.com/EdsonA1)
