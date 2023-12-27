@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **eaugust2@nd.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XGhbl_9PK1CBm42-wKi1gKbWmYRsa9ue/view?usp=sharing](https://drive.google.com/file/d/1XGhbl_9PK1CBm42-wKi1gKbWmYRsa9ue/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1XGhbl_9PK1CBm42-wKi1gKbWmYRsa9ue/view?usp=sharing](https://drive.google.com/file/d/1XGhbl_9PK1CBm42-wKi1gKbWmYRsa9ue/view?usp=sharing)](https://drive.google.com/drive/u/0/my-drive)
 
 - ⚡ Fun fact **Won first place at Hackathon: https://hackathon.library.nd.edu/**
 
