@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Node.js, and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/EdsonA1](https://github.com/EdsonA1)
+- 👨‍💻 My personal website using React & AWS Amplify is available at https://main.d3fkli6ng4c3hd.amplifyapp.com/
 
 - 💬 Ask me about **Full Stack Development, React, Node.js**
 
