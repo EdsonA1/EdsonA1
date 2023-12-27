@@ -6,11 +6,11 @@
 <p align="center"> - Major📚: Computer Science</p>
 <p align="center"> - Minor📒: Real Estate 🏗️ & Engineering Corporate Practice 💼</p>
 
-- 🌱 I’m currently learning **React, Node.js, and MongoDB**
+- 🌱 I’m currently learning ** React, Next.js, and Tailwind-CSS **
 
 - 👨‍💻 My personal website using React & AWS Amplify is available at https://main.d3fkli6ng4c3hd.amplifyapp.com/
 
-- 💬 Ask me about **Full Stack Development, React, Node.js**
+- 💬 Ask me about **Full Stack Development, Product Management & Startups **
 
 - 📫 How to reach me **eaugust2@nd.edu**
 
