@@ -1,32 +1,39 @@
-![image](https://github.com/EdsonA1/EdsonA1/assets/75434547/29bdcccc-2c6e-44e8-9a0a-18c4a4b5a05d)
+## Edson Augustin
 
-<h1 align="center">An Upcoming Developer Attending the University of Notre Dame☘️</h1>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+Software engineer at Apple, AI & Data Platforms. Notre Dame B.E. Computer Science '25.
+Haitian. From Saint-Marc, raised in Lake Worth, Florida, now in San Francisco.
 
-<p align="center"> - Major📚: Computer Science</p>
-<p align="center"> - Minor📒: Real Estate 🏗️ & Engineering Corporate Practice 💼</p>
+Curious engineer. I build agents that use tools, data you can ask questions, and things to see if they're possible. I started in architecture, doing CAD and drafting before I wrote code.
 
-- 🌱 I’m currently learning ** React, Next.js, and Tailwind-CSS **
+### Now
 
-- 👨‍💻 My personal website using React & AWS Amplify is available at https://main.d3fkli6ng4c3hd.amplifyapp.com/
+- **Agent harness in Go.** Streams model output, runs tool calls, cancels cleanly, and replays any failed run from its log.
+- **Tell.** A personal trading-signals app that emails me what to trade and why. I place every trade myself. *Personal research, not financial advice.*
+- **Reading** *Crime and Punishment*.
 
-- 💬 Ask me about **Full Stack Development, Product Management & Startups **
+### Selected work
 
-- 📫 How to reach me **eaugust2@nd.edu**
+- **TRiBE Hub.** First of 15 teams. A verified community platform for 12,000+ Notre Dame members.
+- **Smart Drive Through.** License-plate recognition and a Node-RED pipeline. 50 orders an hour at 90% accuracy.
+- **Pantry Pal.** Meal planning with a MySQL database and JSON APIs for 10,000+ ingredients and recipes.
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1XGhbl_9PK1CBm42-wKi1gKbWmYRsa9ue/view?usp=sharing](https://drive.google.com/file/d/1XGhbl_9PK1CBm42-wKi1gKbWmYRsa9ue/view?usp=sharing)](https://drive.google.com/drive/u/0/my-drive)
+### Stack
 
-- ⚡ Fun fact **Won first place at Hackathon: https://hackathon.library.nd.edu/**
+```toml
+languages   = ["Python", "TypeScript", "JavaScript", "Go", "SQL", "Java", "C/C++"]
+ai_agents   = ["LangGraph", "MCP", "retrieval + grounding", "evals", "Azure OpenAI"]
+open_source = ["Hugging Face", "open-source models", "vLLM"]
+web         = ["React", "Next.js", "Tailwind", "FastAPI", "Node.js", "Express"]
+data_infra  = ["PostgreSQL", "Snowflake", "MySQL", "Docker", "Kubernetes", "CI/CD", "AWS", "Azure"]
+design      = ["AutoCAD", "Inventor", "drafting"]
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/edson-augustin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edson-augustin/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@anetrinity/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@anetrinity/videos" height="30" width="40" /></a>
-</p>
+### Community
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+NSBE president at Notre Dame. ColorStack chapter co-founder. Path to College alumni board co-chair. MLT fellow.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edsona1&show_icons=true&locale=en&layout=compact" alt="edsona1" /></p>
+### Elsewhere
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edsona1&show_icons=true&locale=en" alt="edsona1" /></p>
+[Website](https://edson-portfolio-red.vercel.app) · [Résumé](https://edson-portfolio-red.vercel.app/resume) · [X](https://x.com/edson_aug) · [LinkedIn](https://www.linkedin.com/in/edson-augustin/)
+
+*Piti piti, zwazo fè nich li.* Little by little, the bird builds its nest.
